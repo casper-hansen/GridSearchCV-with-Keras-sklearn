@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/casperbh96/GridSearchCV-with-Keras-sklearn/blob/master/GridSearchCv_with_Keras_and_sklearn.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/casperbh96/GridSearchCV-with-Keras-sklearn/blob/master/GridSearchCv_with_Keras_and_sklearn_%2B_RandomizedSearchCV.ipynb)
 
 # GridSearchCV with most major libraries: Keras, XGBoost, LightGBM and Scikit-Learn
  
